@@ -87,7 +87,8 @@ When you want to share a post, you can optionally attach an image or choose not 
 
 In the post section, each post includes like and dislike buttons, as well as a total count of likes and comments. There’s also a timestamp indicating when the post was shared. Users can leave comments if they wish, and clicking on the post will display more detailed information about it.
 
-![image](https://github.com/user-attachments/assets/e18ecd21-43ee-44ae-9483-6784a81e3e10)
+![image](https://github.com/user-attachments/assets/005aecb4-6878-41ca-9eef-b654d19c8fd6)
+
 
 
 when post clicked:
