@@ -59,6 +59,12 @@ When you click on your profile, your information will be displayed, and you can 
 
 <br>
 
+When you visit a user's profile, you can see their information, and if you wish, you can follow them.
+
+![image](https://github.com/user-attachments/assets/a39c8ee8-2f25-445d-b13e-4852eece0e04)
+
+<br>
+
 In the messaging section, you can send messages to users you follow. These messages are stored in the database, allowing you to access your chat history.
 
 <br>
