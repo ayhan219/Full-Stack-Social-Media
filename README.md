@@ -9,7 +9,6 @@ First of all, download the project, run npm install to install all dependencies,
 ![image](https://github.com/user-attachments/assets/d13744bd-8c80-457a-ac18-a50b97b723b4)
 
 
-## Project Description
 
 <br>
 
