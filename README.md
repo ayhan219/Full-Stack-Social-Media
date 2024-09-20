@@ -59,7 +59,6 @@ When you click on your profile, your information will be displayed, and you can 
 ![image](https://github.com/user-attachments/assets/87ed77d9-c16f-44ef-943e-7b74757a4d2a)
 
 <br>
-
 When you visit a user's profile, you can see their information, and if you wish, you can follow them.
 
 ![image](https://github.com/user-attachments/assets/a39c8ee8-2f25-445d-b13e-4852eece0e04)
