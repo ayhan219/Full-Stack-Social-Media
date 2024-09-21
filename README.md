@@ -54,6 +54,7 @@ In the Navbar, you will see notification and message icons. If someone follows y
 
 <br>
 
+
 When you click on your profile, your information will be displayed, and you can change everything except your username. Below, you'll find your posts along with the number of comments and likes they have received. You can change your profile picture by clicking on it. Additionally, when you hover over your posts, you'll have the option to edit or delete them.
 
 ![image](https://github.com/user-attachments/assets/87ed77d9-c16f-44ef-943e-7b74757a4d2a)
