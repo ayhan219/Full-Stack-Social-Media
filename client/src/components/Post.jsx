@@ -256,7 +256,7 @@ const Post = () => {
         >
           <div
             onClick={(e) => e.stopPropagation()}
-            className="bg-black w-2/5  rounded-lg"
+            className="bg-black w-3/5 sm:w-2/5  rounded-lg"
           >
             {/* Büyük ekran içerik kısmı */}
             <div className="w-full h-24 bg-primary rounded-t-lg">
