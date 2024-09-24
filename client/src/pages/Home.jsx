@@ -7,7 +7,7 @@ import OpenChat from '../components/OpenChat'
 const Home = () => {
   return (
     <div>
-      <div className='flex bg-[#000000] gap-12 sm:gap-36 md:gap-2 relative'>
+      <div className='flex bg-[#000000] pr-7 sm:pr-0 sm:gap-36 md:gap-2 relative'>
         <Sidebar />
         <Header />
         <Friends />

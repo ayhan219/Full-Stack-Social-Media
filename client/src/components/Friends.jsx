@@ -54,7 +54,7 @@ const Friends = () => {
   
 
   return (
-    <div className="hidden lg:block w-[25%] h-[60%] mt-10 border-primary rounded-2xl z-5">
+    <div className="hidden lg:block w-0  sm:w-[25%] h-[60%] mt-10 border-primary rounded-2xl z-5">
       <div className="text-white text-xl flex justify-around items-center p-5 gap-16">
         <h3 className="font-extrabold">Followers</h3>
         <FaSearch onClick={() => setOpenText(!openText)} />
