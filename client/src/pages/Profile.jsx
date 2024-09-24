@@ -14,13 +14,13 @@ const Profile = () => {
     "https://via.placeholder.com/150"
   );
   const [userPosts, setUserPosts] = useState([]);
-  const { user, loading, getCurrentUser,profileData,setProfileData } = useContext(UserContext);
+  const { user, loading, getCurrentUser, profileData, setProfileData } =
+    useContext(UserContext);
   const [openEditArea, setOpenEditArea] = useState(false);
   const [getEditableScreenPost, setGetEditableScreenPost] = useState(false);
   const [popuPost, setPopupPost] = useState({});
   const [editPost, setEditPost] = useState(false);
   const [newContent, setNewContent] = useState("");
-
 
   const [editedProfile, setEditedProfile] = useState({
     email: "",
@@ -95,8 +95,6 @@ const Profile = () => {
   };
 
   const getSpecificUserPosts = async () => {
-
-    
     try {
       const response = await axios.get(
         "http://localhost:5000/api/post/getuserposts",
@@ -125,7 +123,6 @@ const Profile = () => {
     }
     if (user) {
       getSpecificUserPosts();
-      
     }
   }, [loading, user, profileData, navigate]);
 
@@ -156,8 +153,6 @@ const Profile = () => {
       console.log(error);
     }
   };
-
- 
 
   return (
     <div className="min-h-screen bg-primary flex flex-col items-center">
@@ -211,7 +206,6 @@ const Profile = () => {
             ))}
         </div>
 
-        {/* Stats (Similar to Instagram) */}
         <div className="flex justify-around md:justify-start mt-8 space-x-12 text-center md:text-left">
           <div>
             <span className="font-semibold text-lg">
@@ -308,7 +302,7 @@ const Profile = () => {
           <h3 className="font-bold text-3xl">Posts</h3>
         </div>
         <div>
-          <div className="w-full p-8 flex gap-3">
+          <div className="w-full p-8 flex flex-col items-center sm:items-baseline sm:flex-row gap-3">
             {userPosts.map((item) => (
               <ProfilePosts
                 item={item}
