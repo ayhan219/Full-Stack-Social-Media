@@ -58,7 +58,7 @@ const Sidebar = () => {
           </div>
 
           {/* Navigation Links */}
-          <div className="flex flex-col w-full items-start pl-8 gap-6">
+          <div className="flex flex-col w-full items-start p-6 gap-6">
             <Link to="/" className="flex items-center w-full py-2 cursor-pointer hover:bg-gray-700 rounded-xl transition-colors duration-200">
               <IoHome className="text-2xl" />
               <h2 className="text-lg font-semibold ml-4">Home</h2>
