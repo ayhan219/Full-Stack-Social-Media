@@ -33,7 +33,7 @@ const ProfilePosts = ({ item, openPostArea, setUserPosts }) => {
   return (
     <div
       key={item._id}
-      className="group w-2/5 h-60 bg-white hover:bg-gray-800 hover:opacity-75 transition duration-300 ease-in-out relative rounded-lg overflow-hidden shadow-lg"
+      className="group w-4/5 sm:w-2/5 h-60 bg-white hover:bg-gray-800 hover:opacity-75 transition duration-300 ease-in-out relative rounded-lg overflow-hidden shadow-lg"
     >
       <div className="relative w-full h-full">
         <img
