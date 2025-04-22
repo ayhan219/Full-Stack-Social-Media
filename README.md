@@ -113,4 +113,4 @@ On the right side, you'll find our followers, and you can search for specific fo
 
 <br>
 
-In the future, I plan to expand this project further. Currently, the styling is not at its best. I aim to enhance the user interface to provide a more seamless and visually appealing experience. Additionally, I want to implement more features, such as group chats and advanced notification systems, to improve user engagement. Gathering user feedback will also be crucial in identifying areas for improvement and ensuring that the platform meets the needs of its users. Overall, my goal is to create a robust and enjoyable social media experience that fosters connection and communication among users.
+In the future, I plan to expand this project further. Currently, the styling is not at its best. I aim to enhance the user interface to provide a more seamless and visually appealing experience. Additionally, I want to implement more features, such as group chats 
