@@ -109,7 +109,6 @@ On the right side, you'll find our followers, and you can search for specific fo
 <br>
 
 
-
 <br>
 
 In the future, I plan to expand this project further. Currently, the styling is not at its best. I aim to enhance the user interface to provide a more seamless and visually appealing experience. Additionally, I want to implement more features, such as group chats 
