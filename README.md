@@ -109,7 +109,6 @@ On the right side, you'll find our followers, and you can search for specific fo
 <br>
 
 
-## Future plans
 
 <br>
 
